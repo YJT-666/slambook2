@@ -1,0 +1,4 @@
+/home/marks/slambook2/ch2/build/CMakeFiles/hello_shared.dir
+/home/marks/slambook2/ch2/build/CMakeFiles/useHello.dir
+/home/marks/slambook2/ch2/build/CMakeFiles/edit_cache.dir
+/home/marks/slambook2/ch2/build/CMakeFiles/rebuild_cache.dir
