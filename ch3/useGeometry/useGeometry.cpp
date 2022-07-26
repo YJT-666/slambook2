@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include <corecrt_math_defines.h>
+// #include <corecrt_math_defines.h>
 
 using namespace std;
 

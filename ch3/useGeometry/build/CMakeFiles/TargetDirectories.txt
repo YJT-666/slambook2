@@ -1,0 +1,3 @@
+/home/marks/slambook2/ch3/useGeometry/build/CMakeFiles/useGeometry.dir
+/home/marks/slambook2/ch3/useGeometry/build/CMakeFiles/edit_cache.dir
+/home/marks/slambook2/ch3/useGeometry/build/CMakeFiles/rebuild_cache.dir
